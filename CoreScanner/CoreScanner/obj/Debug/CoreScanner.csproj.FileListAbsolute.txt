@@ -9,3 +9,7 @@ D:\CoreScanner\CoreScanner\bin\Debug\CoreScanner.pdb
 D:\CoreScanner\CoreScanner\bin\Debug\Interop.CoreScanner.dll
 D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.exe
 D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.pdb
+D:\Demo\Demo\CoreScanner\CoreScanner\obj\Debug\Interop.CoreScanner.dll
+D:\Demo\Demo\CoreScanner\CoreScanner\obj\Debug\CoreScanner.csproj.ResolveComReference.cache
+D:\Demo\Demo\CoreScanner\CoreScanner\obj\Debug\CoreScanner.exe
+D:\Demo\Demo\CoreScanner\CoreScanner\obj\Debug\CoreScanner.pdb
