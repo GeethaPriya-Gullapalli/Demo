@@ -1,0 +1,11 @@
+D:\CoreScanner\CoreScanner\obj\Debug\ResolveAssemblyReference.cache
+D:\CoreScanner\CoreScanner\obj\Debug\Interop.CoreScanner.dll
+D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.csproj.ResolveComReference.cache
+D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.Form1.resources
+D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.Properties.Resources.resources
+D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.csproj.GenerateResource.Cache
+D:\CoreScanner\CoreScanner\bin\Debug\CoreScanner.exe
+D:\CoreScanner\CoreScanner\bin\Debug\CoreScanner.pdb
+D:\CoreScanner\CoreScanner\bin\Debug\Interop.CoreScanner.dll
+D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.exe
+D:\CoreScanner\CoreScanner\obj\Debug\CoreScanner.pdb
